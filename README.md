@@ -2,4 +2,4 @@ Folwarek Klasowy App
 
 Pobierz Tutaj :
 
-https://github.com/bodziopolska/FolwarekApp/releases/tag/1.03
+https://github.com/bodziopolska/FolwarekApp/releases/tag/1.04
